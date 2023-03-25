@@ -1,0 +1,11 @@
+D:\code\UDP Server-Client\UDP Client\bin\Debug\UDP Client.exe.config
+D:\code\UDP Server-Client\UDP Client\bin\Debug\UDP Client.exe
+D:\code\UDP Server-Client\UDP Client\bin\Debug\UDP Client.pdb
+D:\code\UDP Server-Client\UDP Client\obj\Debug\UDP Client.csproj.AssemblyReference.cache
+D:\code\UDP Server-Client\UDP Client\obj\Debug\UDP Client.csproj.SuggestedBindingRedirects.cache
+D:\code\UDP Server-Client\UDP Client\obj\Debug\UDP_Client.Form1.resources
+D:\code\UDP Server-Client\UDP Client\obj\Debug\UDP_Client.Properties.Resources.resources
+D:\code\UDP Server-Client\UDP Client\obj\Debug\UDP Client.csproj.GenerateResource.cache
+D:\code\UDP Server-Client\UDP Client\obj\Debug\UDP Client.csproj.CoreCompileInputs.cache
+D:\code\UDP Server-Client\UDP Client\obj\Debug\UDP Client.exe
+D:\code\UDP Server-Client\UDP Client\obj\Debug\UDP Client.pdb
